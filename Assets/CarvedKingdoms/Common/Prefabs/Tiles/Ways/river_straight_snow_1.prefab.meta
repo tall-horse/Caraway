@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 65c59f695e39adf43930572a04f5cf22
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Tiles/Ways/river_straight_snow_1.prefab
+  uploadId: 1046102

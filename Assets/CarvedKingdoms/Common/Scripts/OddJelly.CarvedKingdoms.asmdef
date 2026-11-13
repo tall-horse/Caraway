@@ -1,0 +1,12 @@
+{
+    "name": "OddJelly.CarvedKingdoms",
+    "rootNamespace": "OddJelly.CarvedKingdoms",
+    "references": ["Unity.RenderPipelines.Universal.Runtime", "Unity.RenderPipelines.Core.Runtime", "Unity.InputSystem"],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "autoReferenced": true,
+    "versionDefines": [
+        { "name": "com.unity.inputsystem", "expression": "1.0.0", "define": "CARVED_INPUT_SYSTEM" }
+    ]
+}

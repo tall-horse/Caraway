@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ef4b8d29b8f6280499701d3712392a47
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Kit/Nature/swamp_tree.prefab
+  uploadId: 1046102

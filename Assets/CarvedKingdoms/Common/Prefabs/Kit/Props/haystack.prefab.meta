@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1c95f847afa61694283e0d1a3b7993ac
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Kit/Props/haystack.prefab
+  uploadId: 1046102

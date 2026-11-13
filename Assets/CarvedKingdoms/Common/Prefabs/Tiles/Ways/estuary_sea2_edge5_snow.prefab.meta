@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: da0c9d902e9e72948bec7074a3c12a8c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Tiles/Ways/estuary_sea2_edge5_snow.prefab
+  uploadId: 1046102

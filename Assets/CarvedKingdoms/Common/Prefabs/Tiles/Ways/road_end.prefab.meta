@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c842438241346bf459e708835f2cbdbd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Tiles/Ways/road_end.prefab
+  uploadId: 1046102

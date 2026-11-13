@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b71fa9beb6d96e54bab818b42f24933c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Kingdom/Animators/kingdom_goat_2.controller
+  uploadId: 1046102

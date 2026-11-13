@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e7cdcf44b3bb7f84e9f4f57dd23065c4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Tiles/Terrain/tile_mountains_1.prefab
+  uploadId: 1046102

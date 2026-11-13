@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0a3e681bd72938343909a68c287eb1a9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Units/Projectiles/bombard_ball.prefab
+  uploadId: 1046102

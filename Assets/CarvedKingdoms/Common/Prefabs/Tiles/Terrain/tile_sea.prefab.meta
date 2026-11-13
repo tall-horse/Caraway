@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a45645e6ece56dc40acf89fffcf8b336
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Tiles/Terrain/tile_sea.prefab
+  uploadId: 1046102

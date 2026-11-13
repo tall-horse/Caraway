@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e08db08496341314d8628e6314bfb512
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Kingdom/Prefabs/Tiles/Places/kingdom_tile_farm.prefab
+  uploadId: 1046102

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: daa30bef1c0297847879638b82d928de
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Tiles/Ways/coast_side_1.prefab
+  uploadId: 1046102

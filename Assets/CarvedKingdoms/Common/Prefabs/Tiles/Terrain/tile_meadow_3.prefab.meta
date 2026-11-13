@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a9f0360c8a7bc334a937b805cee7840f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Tiles/Terrain/tile_meadow_3.prefab
+  uploadId: 1046102

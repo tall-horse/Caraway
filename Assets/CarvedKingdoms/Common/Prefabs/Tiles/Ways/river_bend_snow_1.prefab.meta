@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d0aeb6dac4e31a6428b632f2b5e15b58
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Tiles/Ways/river_bend_snow_1.prefab
+  uploadId: 1046102

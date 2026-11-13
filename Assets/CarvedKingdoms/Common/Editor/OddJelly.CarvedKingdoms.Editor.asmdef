@@ -1,0 +1,9 @@
+{
+    "name": "OddJelly.CarvedKingdoms.Editor",
+    "rootNamespace": "OddJelly.CarvedKingdoms.EditorTools",
+    "references": ["OddJelly.CarvedKingdoms", "Unity.RenderPipelines.Universal.Runtime", "Unity.RenderPipelines.Core.Runtime"],
+    "includePlatforms": ["Editor"],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "autoReferenced": true
+}

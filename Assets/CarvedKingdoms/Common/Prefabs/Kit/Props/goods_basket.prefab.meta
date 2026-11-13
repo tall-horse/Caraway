@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 51322b4b61db6fa48b2dab34d94ff50f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Kit/Props/goods_basket.prefab
+  uploadId: 1046102

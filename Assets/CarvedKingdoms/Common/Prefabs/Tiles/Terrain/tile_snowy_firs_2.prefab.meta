@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5026541ea1c661f4b90171cb32ec9245
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Tiles/Terrain/tile_snowy_firs_2.prefab
+  uploadId: 1046102

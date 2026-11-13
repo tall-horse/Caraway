@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fa09491ab6fd1334e8c7a385d3add924
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Tiles/Ways/road_bend_snow_1.prefab
+  uploadId: 1046102

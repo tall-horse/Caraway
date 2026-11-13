@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 433d5d13b9b845b43bfd3fad8c340d99
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Tiles/Terrain/tile_pine_forest_2.prefab
+  uploadId: 1046102

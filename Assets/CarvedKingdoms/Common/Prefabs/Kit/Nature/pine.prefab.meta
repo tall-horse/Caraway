@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 60eeaf1cd352b7b44a1158fe6ffb90ab
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Kit/Nature/pine.prefab
+  uploadId: 1046102

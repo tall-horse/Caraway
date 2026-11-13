@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7d8bfb1e16d954a42807f07488cc8507
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Tiles/Terrain/tile_pond_2.prefab
+  uploadId: 1046102

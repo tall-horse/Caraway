@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c3979b91472bae347a3be3f338004819
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Scripts/OddJelly.CarvedKingdoms.asmdef
+  uploadId: 1046102

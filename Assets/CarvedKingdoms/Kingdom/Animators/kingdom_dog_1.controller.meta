@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 406fb2658f9b2ed49897bd9d9ac8e8c1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Kingdom/Animators/kingdom_dog_1.controller
+  uploadId: 1046102

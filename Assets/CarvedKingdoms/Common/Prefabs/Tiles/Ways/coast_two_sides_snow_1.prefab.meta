@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8b995f31ad8d96441b13424d19c0a4d4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Tiles/Ways/coast_two_sides_snow_1.prefab
+  uploadId: 1046102

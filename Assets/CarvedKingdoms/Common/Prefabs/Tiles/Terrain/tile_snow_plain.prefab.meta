@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f58c62bfa93d668498923ce3f66aff0f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Tiles/Terrain/tile_snow_plain.prefab
+  uploadId: 1046102

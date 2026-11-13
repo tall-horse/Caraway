@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f6bcc311b3e9bab44b9d327a51192929
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Tiles/Ways/coast_side_dry_1.prefab
+  uploadId: 1046102

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 637b54a8afbc4134cb5ac8750bec6b60
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Kit/Nature/snowy_fir.prefab
+  uploadId: 1046102

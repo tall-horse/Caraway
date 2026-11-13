@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5cd085f5d9cf67846bf4132bd7380d0a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Tiles/Terrain/tile_fields_3.prefab
+  uploadId: 1046102

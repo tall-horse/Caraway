@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: de6914708a0a72645a534f60214cb77c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Tiles/Ways/coast_two_sides_dry_1.prefab
+  uploadId: 1046102

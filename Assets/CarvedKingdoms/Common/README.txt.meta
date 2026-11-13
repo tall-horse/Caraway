@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fc108ef19c64bee41b1101292d56f5c3
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/README.txt
+  uploadId: 1046102

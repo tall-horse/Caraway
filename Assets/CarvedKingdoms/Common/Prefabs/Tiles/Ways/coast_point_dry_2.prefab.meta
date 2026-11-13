@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 88b6c019c377e9942a9ed6fb053760a9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Tiles/Ways/coast_point_dry_2.prefab
+  uploadId: 1046102

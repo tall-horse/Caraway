@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2a8e58db849683b4a91bb67522f3f902
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Tiles/Ways/road_straight_2.prefab
+  uploadId: 1046102

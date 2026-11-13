@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ba180aa7ae1077f4aa35c6e57a04941c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Tiles/Terrain/tile_snowy_hills_1.prefab
+  uploadId: 1046102

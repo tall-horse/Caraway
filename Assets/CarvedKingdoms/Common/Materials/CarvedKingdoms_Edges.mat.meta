@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 32a767cca9199d140b88aa20020f0c9c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Materials/CarvedKingdoms_Edges.mat
+  uploadId: 1046102

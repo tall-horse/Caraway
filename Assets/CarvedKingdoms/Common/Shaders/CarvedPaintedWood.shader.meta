@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fb20d6847e06de94183acb05efdabcb7
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Shaders/CarvedPaintedWood.shader
+  uploadId: 1046102

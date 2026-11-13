@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 117e565dca1a5bc42a93592f13fdbe4b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Units/Projectiles/arrow.prefab
+  uploadId: 1046102

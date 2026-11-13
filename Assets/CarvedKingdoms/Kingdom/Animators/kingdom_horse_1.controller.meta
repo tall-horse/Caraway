@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 587163600dbabfc41b757f9f8c94897a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Kingdom/Animators/kingdom_horse_1.controller
+  uploadId: 1046102

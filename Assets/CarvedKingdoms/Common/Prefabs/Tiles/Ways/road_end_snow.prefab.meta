@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 88504d9d1f74b084589ab5be589d5b59
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Tiles/Ways/road_end_snow.prefab
+  uploadId: 1046102

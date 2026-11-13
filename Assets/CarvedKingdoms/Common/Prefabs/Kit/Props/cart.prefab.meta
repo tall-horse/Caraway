@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 53629159b1d04ed49a565b33cb6bd468
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Kit/Props/cart.prefab
+  uploadId: 1046102

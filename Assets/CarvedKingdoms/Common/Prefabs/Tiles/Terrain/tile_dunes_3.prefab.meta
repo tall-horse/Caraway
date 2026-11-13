@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 382240f4f5714504587582f61da9467c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Tiles/Terrain/tile_dunes_3.prefab
+  uploadId: 1046102

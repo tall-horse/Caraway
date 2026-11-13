@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9c4a724c5321f154f8819cf4a03eb291
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Kit/Props/banner_pole.prefab
+  uploadId: 1046102

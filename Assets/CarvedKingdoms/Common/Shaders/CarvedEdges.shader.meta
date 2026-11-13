@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: da86f83c4d665fe4f98b8762e04d54ba
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Shaders/CarvedEdges.shader
+  uploadId: 1046102

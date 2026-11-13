@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 286233f651c6b0d4fbd20cae0f285d44
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Tiles/Ways/coast_point_snow_2.prefab
+  uploadId: 1046102

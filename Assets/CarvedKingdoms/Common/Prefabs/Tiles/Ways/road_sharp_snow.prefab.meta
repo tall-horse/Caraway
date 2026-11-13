@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8ad65e2ccd68c1c47b0f62de895a6d8c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Tiles/Ways/road_sharp_snow.prefab
+  uploadId: 1046102

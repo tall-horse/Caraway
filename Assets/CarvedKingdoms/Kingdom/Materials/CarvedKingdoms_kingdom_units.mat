@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CarvedKingdoms_kingdom_units
+  m_Shader: {fileID: 4800000, guid: fb20d6847e06de94183acb05efdabcb7, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Grain:
+        m_Texture: {fileID: 2800000, guid: e5cbfab394382a742b20c282cce3846c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 9a07a9343a145de498a7af1eca83b541, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _GrainScale: 1
+    - _PaintGrain: 0.09
+    - _PaintGrainScale: 0.5
+    - _Patterns: 0
+    - _Plain: 0
+    - _Richness: 0.5
+    - _Smoothness: 0.12
+    - _Variation: 0.5
+    m_Colors:
+    - _PaintGrainKind: {r: 0, g: 0, b: 1, a: 0}
+    - _TeamColor: {r: 0, g: 0, b: 0, a: 0}
+    - _WeaponWoodDark: {r: 0.61179996, g: 0.49409992, b: 0.34509993, a: 1}
+    - _WeaponWoodGrain: {r: 0, g: 1, b: 0, a: 0}
+    - _WeaponWoodLight: {r: 0.8627, g: 0.7922, b: 0.651, a: 1}
+    - _WoodDark: {r: 0.7059, g: 0.49409992, b: 0.32939997, a: 1}
+    - _WoodGrain: {r: 1, g: 0, b: 0, a: 0}
+    - _WoodLight: {r: 0.8705999, g: 0.7137, b: 0.5412, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

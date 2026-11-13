@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1d91f32ad08ed464e95b66f1576e789c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Tiles/Terrain/tile_sand_plain.prefab
+  uploadId: 1046102

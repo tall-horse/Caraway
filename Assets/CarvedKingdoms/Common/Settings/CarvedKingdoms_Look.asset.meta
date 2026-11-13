@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6c16c177a1b1a5b48ba717b99033b283
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Settings/CarvedKingdoms_Look.asset
+  uploadId: 1046102

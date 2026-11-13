@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ff35a438c088ab64ca8cad96e0b82f52
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Tiles/Terrain/tile_red_rock_1.prefab
+  uploadId: 1046102

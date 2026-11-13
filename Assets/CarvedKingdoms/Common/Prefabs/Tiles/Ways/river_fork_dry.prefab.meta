@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 19bdadcb413b2ad4c9e7a83ce0120116
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Tiles/Ways/river_fork_dry.prefab
+  uploadId: 1046102

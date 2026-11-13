@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 639492f6910a2e94996438c6cfeea32c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Kit/Props/well.prefab
+  uploadId: 1046102

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: eebea2021c5520a439ac0e1d560c533a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Kit/Props/campfire.prefab
+  uploadId: 1046102

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 60c3eef03f1aa22408224d3a44522dd0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Kit/Props/fence.prefab
+  uploadId: 1046102

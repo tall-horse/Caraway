@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 74358d50c271256469a275c882fbee89
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Tiles/Ways/road_bend_dry_2.prefab
+  uploadId: 1046102

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e2f181d551d95684d822e3292a6cfaf3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Tiles/Ways/coast_half_snow_1.prefab
+  uploadId: 1046102

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9df9d5a63fa52fa47b0637fca0d75d50
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Tiles/Ways/river_sharp.prefab
+  uploadId: 1046102

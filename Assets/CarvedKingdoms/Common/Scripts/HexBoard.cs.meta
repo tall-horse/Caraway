@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 563f38bab86a0054f8dcd6a8512ad9ee
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Scripts/HexBoard.cs
+  uploadId: 1046102

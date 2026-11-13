@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6b25e11258b9f614587b7891b51fc6b3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Models/HexTileCollider.asset
+  uploadId: 1046102

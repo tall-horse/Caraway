@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8367d2f2e86754a48bd4ed57f95fc6a9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Tiles/Ways/road_bend_2.prefab
+  uploadId: 1046102

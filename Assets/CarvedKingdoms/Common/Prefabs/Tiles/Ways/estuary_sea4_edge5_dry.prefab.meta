@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: da43ac56f18eef742b79caf75677f9d4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Tiles/Ways/estuary_sea4_edge5_dry.prefab
+  uploadId: 1046102

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6c5d806b47bb17c41b85bbddc0abe2bb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Tiles/Ways/river_straight_dry_1.prefab
+  uploadId: 1046102

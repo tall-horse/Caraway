@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e952767c763c2974ab94f165facebfc0
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Textures/carved_woods.json
+  uploadId: 1046102

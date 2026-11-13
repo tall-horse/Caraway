@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bf432229f9334ec4b981e16497653404
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Tiles/Ways/coast_spit_dry.prefab
+  uploadId: 1046102

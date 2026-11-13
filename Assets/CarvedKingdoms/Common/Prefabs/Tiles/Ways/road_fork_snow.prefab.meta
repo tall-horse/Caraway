@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a1f4edab2a7492a4081fc211c1ad9bc0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Tiles/Ways/road_fork_snow.prefab
+  uploadId: 1046102

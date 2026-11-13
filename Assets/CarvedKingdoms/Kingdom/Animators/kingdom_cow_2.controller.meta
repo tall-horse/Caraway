@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ea23dea764843bd489068b7ca9dff54c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Kingdom/Animators/kingdom_cow_2.controller
+  uploadId: 1046102

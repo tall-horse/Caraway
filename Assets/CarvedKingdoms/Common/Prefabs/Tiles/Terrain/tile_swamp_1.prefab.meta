@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6b9b859cb24c9334997e4026aca05fb4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Tiles/Terrain/tile_swamp_1.prefab
+  uploadId: 1046102

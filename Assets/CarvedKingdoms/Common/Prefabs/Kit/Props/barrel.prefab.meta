@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4bd641e988690c54ea5b356e57d4db30
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Kit/Props/barrel.prefab
+  uploadId: 1046102

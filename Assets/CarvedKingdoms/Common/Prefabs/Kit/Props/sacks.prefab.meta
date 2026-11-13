@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d08b5991588f05a4daa8ecb1e9655afa
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Kit/Props/sacks.prefab
+  uploadId: 1046102

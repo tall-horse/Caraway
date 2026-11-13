@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 30d883f35f21d734a936482337545c88
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Tiles/Ways/bridge.prefab
+  uploadId: 1046102

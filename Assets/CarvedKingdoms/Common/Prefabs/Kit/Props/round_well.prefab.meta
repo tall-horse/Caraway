@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f47b00d92e2a6b24082f4a1b2621e984
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Kit/Props/round_well.prefab
+  uploadId: 1046102

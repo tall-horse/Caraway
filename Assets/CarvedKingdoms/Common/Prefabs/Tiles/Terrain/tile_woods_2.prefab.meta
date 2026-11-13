@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 767293334c77e3b48813d0d2e1de174d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Tiles/Terrain/tile_woods_2.prefab
+  uploadId: 1046102

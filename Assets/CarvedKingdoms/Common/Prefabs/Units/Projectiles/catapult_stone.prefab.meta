@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e8d53ec2188964c4790b42fc690a9096
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Units/Projectiles/catapult_stone.prefab
+  uploadId: 1046102

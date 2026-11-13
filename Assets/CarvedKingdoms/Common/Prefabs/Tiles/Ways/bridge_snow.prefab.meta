@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e1b17931431d3d141a0f18b289a9c713
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Tiles/Ways/bridge_snow.prefab
+  uploadId: 1046102

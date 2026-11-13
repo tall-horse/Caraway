@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fc3e61bea1ae5744c92eab3c384dbf79
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Tiles/Ways/estuary_sea1_edge1.prefab
+  uploadId: 1046102

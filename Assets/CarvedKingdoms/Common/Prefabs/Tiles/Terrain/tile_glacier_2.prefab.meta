@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0e0e047b4c29e3e408e8323f19bed9a9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Tiles/Terrain/tile_glacier_2.prefab
+  uploadId: 1046102

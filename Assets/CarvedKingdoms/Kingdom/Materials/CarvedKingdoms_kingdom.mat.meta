@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d41f572254fec3a4b8860e6a39717589
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Kingdom/Materials/CarvedKingdoms_kingdom.mat
+  uploadId: 1046102

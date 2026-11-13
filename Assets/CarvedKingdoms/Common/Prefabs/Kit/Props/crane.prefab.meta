@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 96ee6f40583638c48ad39ebfc3b4e078
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 426526
+  packageName: 'Carved Kingdoms: Base Set'
+  packageVersion: 1.1.0
+  assetPath: Assets/CarvedKingdoms/Common/Prefabs/Kit/Props/crane.prefab
+  uploadId: 1046102
