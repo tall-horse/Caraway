@@ -11,23 +11,33 @@ public class TestCommandCentre : MonoBehaviour
     {
         _hexBoard = FindAnyObjectByType<HexBoard>();
     }
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
 
-    }
-
-    // Update is called once per frame
     void Update()
     {
         if (Input.GetKeyUp(KeyCode.Alpha1))
         {
             _firstTile = _hexBoard.PlaceTile(_tiles[0].gameObject, new Vector2Int(0, 0), 0);
         }
-        if (Input.GetKeyUp(KeyCode.Alpha2))
+        if (Input.GetMouseButtonUp(0))
         {
-            _firstTile.GetComponent<CarvedTeam>().SetColour(Color.red);
-            _firstTile.GetComponent<CarvedTeam>().Apply();
+            Vector2Int cell = GetCellUnderMouse();
+            _firstTile = _hexBoard.PlaceTile(_tiles[0].gameObject, cell, 0);
         }
+    }
+    /// <summary>
+    /// Returns the axial cell that is underneath the current mouse position.
+    /// </summary>
+    private Vector2Int GetCellUnderMouse()
+    {
+        Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+
+        Plane boardPlane = new Plane(Vector3.up, 0f);
+
+        if (!boardPlane.Raycast(ray, out float distance))
+            return default;
+
+        Vector3 hitWorldPos = ray.GetPoint(distance);
+
+        return HexBoard.LocalToCell(hitWorldPos);
     }
 }
