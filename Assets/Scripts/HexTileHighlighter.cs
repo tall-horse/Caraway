@@ -74,7 +74,7 @@ public class HexTileHighlighter : MonoBehaviour
                 continue;
 
             var mat = r.material;
-            Vector2Int cell = OddJelly.CarvedKingdoms.HexBoard.LocalToCell(_current.transform.localPosition);
+            Vector2Int cell = HexBoard.LocalToCell(_current.transform.localPosition);
 
             if (_originalWoodColors.TryGetValue(cell, out var orig))
             {
